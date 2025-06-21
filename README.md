@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/b4866e83-afd1-40c5-b2fb-afe2a9200ab5)
 
 
-### 📄 `README.md` for Your Project
+
 
 ````markdown
 # 📝 Student Report Card Generator (Rust)
@@ -104,7 +104,7 @@ Built as part of Mini Task-3 (Rust-based Report Card App) under a tech internshi
 
 ---
 
-### ✅ To Add It to Your Project
+To Add It to Your Project
 
 Save this content in a file named `README.md` at the **root of your project** (same level as `Cargo.toml`), then run:
 
